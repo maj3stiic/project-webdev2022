@@ -140,32 +140,43 @@ footer {
   padding: 0px;
 }
 
+
+
 .fa-facebook {
   position: relative;
   margin: 0 14px;
   font-size: 30px;
+  color: rgb(51, 98, 185);
+}
+
+.fa-facebook :hover{
+  color: rgb(255, 24, 24);
 }
 
 .fa-linkedin {
   position: relative;
   margin: 0 14px;
   font-size: 30px;
+  color: rgb(0,119,181);
 }
 
 .fa-instagram {
   position: relative;
   margin: 0 14px;
   font-size: 30px;
+  color: rgb(221, 42, 123);
 }
 
 .fa-twitter {
   position: relative;
   margin: 0 14px;
   font-size: 30px;
+  color: rgb(8,160,233);
 }
 
 .fa-youtube {
   position: relative;
   margin: 0 14px;
   font-size: 30px;
+  color: rgb(230,33,23);
 }
