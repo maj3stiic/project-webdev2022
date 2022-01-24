@@ -118,11 +118,11 @@ footer {
   position: relative;
 }
 
-.adress {
+.address {
   right: 300px;
   position: relative;
 }
-.adress p {
+.address p {
   font-family: "robot", sans-serif;
   font-size: 1em;
   line-height: 20px;
